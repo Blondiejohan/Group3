@@ -1,0 +1,56 @@
+Attendance:
+	Tigistu Anebo
+	Johan Johansson
+	Daniel Mårtensson
+	Emanuel Mellblom
+	Jakob Vilhelmson
+	John Sundling
+	Adin Hodovic
+;
+
+Date:
+	8/10-2015
+;
+
+Regular Meetings (Excpected Attendance):
+	At Mondays 12:00
+	At Wensdays 15:00
+	At Thursdays 10:00 Important
+	AT Fridays 15:00
+	
+	If you can't attend use Skype.  
+;
+
+Teams:
+	|_Database:
+	|	Jakob Vilhelmson
+	|	Daniel Mårtensson
+	|	Abtin Daneshvar-Minabi
+	|
+	|_Java:
+	|	John Sundling
+	|	Johan Johansson
+	|
+	|_Integrate Java and Database:
+		Adin Hodovic
+		Tigistu Anebo
+		Daniel Mårtensson
+;
+
+	
+		
+
+Split up the first user-story into two parts.  The second part is not among the tasks below.
+
+Task 1 U.S (1) split into (2p): Create a user main-input to the database.
+
+Task 2 U.S (1) (4p): Setup a Database.
+
+Task 3 U.S (1) (2p): Integrate Database and java.
+
+
+
+
+Note:
+	On the second sprint we'll finnish the second half  of user story 1.
+;
